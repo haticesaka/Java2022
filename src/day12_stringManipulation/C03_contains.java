@@ -2,6 +2,9 @@ package day12_stringManipulation;
 
 public class C03_contains {
     public static void main(String[] args) {
+
+
+
         // Soru 1) Kullanicidan email adresini girmesini isteyin,
         // mail @gmail.com icermiyorsa  “lutfen gmail adresi giriniz”,
         // @gmail.com ile bitiyorsa  “Email adresiniz kaydedildi “ ,
