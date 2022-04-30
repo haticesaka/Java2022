@@ -18,6 +18,8 @@ public class C02_Ternary {
             System.out.println("sayi tek");
         }
         System.out.println(sayi%2==0 ? "Sayi cift" : "sayi tek");
+       String sonuc= sayi%2==0 ? "Sayi cift" : "sayi tek";
+        System.out.println("tekrar : "+ sonuc);
     }
 }
 

@@ -20,6 +20,7 @@ public class C04_NestedTernary {
                 System.out.println("Sayi -100'den buyuk negatif sayi");
             }
         }
+
     }
 }
 
